@@ -1,10 +1,8 @@
-# <img align="center" src="https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png" alt="DIO" style="zoom:30%;"  />
+# Snake Game  🐍 - DIO
 
 ## Bootcamp - [HTML Web Developer](https://web.digitalinnovation.one/track/html-web-developer):
 
 ### Projeto  3:
-
-# Snake Game  🐍 - DIO
 
 <h1>
     <img src="assets/Tela_SnakeGame.gif">
