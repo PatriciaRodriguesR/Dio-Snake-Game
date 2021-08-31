@@ -24,7 +24,7 @@ Repositório do projeto prático proposto na aula do Bootcamp -HTML Web Develope
 
 
 
-Link para visualizar o jogo: [Clique aqui](https://PatriciaRodriguesR.github.io/DIO-Snake-Game/)
+Link para visualizar o jogo: [Clique aqui](https://PatriciaRodriguesR.github.io/Dio-Snake-Game/)
 
 
 
