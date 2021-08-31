@@ -1,0 +1,60 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    color: #FFF;
+    background: #0d0c22;
+}
+
+canvas{
+    border: solid white  3px;
+} 
+
+h1{
+    font-family: OCR A Std, monospace;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+.placar{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    width: 450px;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 5px;
+}
+
+#score{
+    align-items: flex-end;
+    margin-right: 250px;
+}
+
+.placar button{
+    color: #fff;
+    background: dimgray;
+    border: black 2px;
+    border-radius: 5px;    
+    padding: 8px 15px;
+    transition: 0.2s;
+}
+
+.placar button:hover{
+    cursor: pointer;
+    opacity: 0.6;
+    background-color: black;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: none;
+    font-size: 12px;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+
+
